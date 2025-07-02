@@ -1,0 +1,5 @@
+Locks
+
+Two types:
+Intrinsic: Every java object has their own lock. Eg: Synchronized
+Entrinsic: We put these locks on our own.
